@@ -1,0 +1,2 @@
+# Predicting-User-Sentiment-for-Fine-Foods-products-using-Text-Summary-of-Amazon-Reviews
+Accumulated data for analysis using SQL based queries from SQLite dataset using the sqlite3 package in Python.  Partitioned the review into positive and negative sentiments and cleaned the text data by stemming, tokenizing, pruning using the nltk library. Applied Logistic Regression and Naïve Bayes classifiers to obtain an accuracy of 92.53% and 90.74% respectively. 
